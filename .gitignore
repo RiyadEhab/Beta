@@ -1,0 +1,4 @@
+*.log
+!vip.log
+python_packs/
+text.txt
